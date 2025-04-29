@@ -1,0 +1,1 @@
+This project contains two Jupyter notebooks solving the 1D and 2D heat equations using Physics-Informed Neural Networks (PINNs). Each file displays the results used directly in the paper, but all cells can be re-run sequentially in order to reproduce results. All references are cited in the paper write-up.
